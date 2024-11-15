@@ -1,5 +1,4 @@
-# Ender3V3SE OctoPrint Power Loss Configuration
-## **Power Loss Plugin Configuration for Ender 3 V3 SE (OctoPrint Setup)**
+# **Power Loss Plugin Configuration for Ender 3 V3 SE (OctoPrint Setup)**
 
 ### **Scenario 1: Actual Power Loss Occurs**
 - **Behavior**: If a power loss occurs, the printer will automatically raise the print head by 10 mm when a new print is started through OctoPrint. This ensures the print head does not interfere with the print bed after the power is restored.
