@@ -75,8 +75,8 @@
 
 ### 4. **Save the Settings:**
    - After pasting the modified G-code in both **Start G-code** and **End G-code** fields, click **OK** to save your settings.
-   - ![image](https://github.com/user-attachments/assets/982e40a2-b9bd-4665-ac44-6cd6c7caa50f)
-   - ![image](https://github.com/user-attachments/assets/b0d465e0-13c5-40d5-a872-ebf0bf3878dc)
+    ![image](https://github.com/user-attachments/assets/982e40a2-b9bd-4665-ac44-6cd6c7caa50f)
+    ![image](https://github.com/user-attachments/assets/b0d465e0-13c5-40d5-a872-ebf0bf3878dc)
 
 
 
