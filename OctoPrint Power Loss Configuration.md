@@ -31,4 +31,4 @@ G90 ;absolute positioning
 
 ---
 
-This should now be clear and concise! Let me know if you need anything else.
+If either of these scenarios arises and the proper settings were not initially configured, you can modify the recovery G-code file based on the settings provided above.
