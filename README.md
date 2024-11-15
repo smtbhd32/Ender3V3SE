@@ -4,7 +4,17 @@
 #### **Scenario 1: Actual Power Loss Occurs**
 - **Behavior**: If a power loss occurs, the printer will automatically raise the print head by 10 mm when a new print is started through OctoPrint. This ensures the print head does not interfere with the print bed after the power is restored.
 - **Configuration**: Set the **Z Homing** value in the power loss plugin configuration to **10 mm**. This ensures that the printer moves the head up by 10 mm upon restart when a new print is initiated.
-- ![image](https://github.com/user-attachments/assets/e8653bc8-c272-4e13-82e9-0f39e003ad0c)
+- ![image](https://github.com/user-attachments/assets/8cab57fe-0dec-4bf5-b10d-a91379670f02)
+- **Note:** The cursor `" | "` should be placed on the next line.
+- 
+```gcode
+G92 Z{adjustedZ}  ; set Z with any homing offsets 
+;M211 S0 ; Deactivate software endstops
+G91 ;relative positioning
+G1 Z-{z_homing_height} F200 ; correcting Z_HOMING_HEIGHT
+G90 ;absolute positioning
+;M211 S1 ; Activate software endstops
+```
 
 
 
@@ -12,7 +22,9 @@
 #### **Scenario 2: No Power Loss (Power Remains On) and OctoPrint Disconnects**
 - **Behavior**: If the printer remains powered on and OctoPrint gets disconnected for any reason and then reconnects, the print head will **not** move. It will remain at the last saved Z height.
 - **Configuration**: In this case, the **Z Homing** value is not required. Instead, use the following G-code in the power loss plugin configuration:
-- ![image](https://github.com/user-attachments/assets/359c01da-f198-4fa3-ad1f-512692216492)
+- ![image](https://github.com/user-attachments/assets/c3352fe0-159f-4844-b7b0-05f65c8047d0)
+- **Note:** The cursor `" | "` should be placed on the next line.
+
 
 
 
