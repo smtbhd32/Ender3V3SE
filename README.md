@@ -4,7 +4,8 @@
 #### **Scenario 1: Actual Power Loss Occurs**
 - **Behavior**: If a power loss occurs, the printer will automatically raise the print head by 10 mm when a new print is started through OctoPrint. This ensures the print head does not interfere with the print bed after the power is restored.
 - **Configuration**: Set the **Z Homing** value in the power loss plugin configuration to **10 mm**. This ensures that the printer moves the head up by 10 mm upon restart when a new print is initiated.
-- ![image](https://github.com/user-attachments/assets/d5171ecc-a97a-452e-b126-4513b2845f70)
+- ![image](https://github.com/user-attachments/assets/e8653bc8-c272-4e13-82e9-0f39e003ad0c)
+
 
 
 
