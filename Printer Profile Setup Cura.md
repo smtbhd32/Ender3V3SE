@@ -101,7 +101,3 @@
    - If you've made further adjustments to the printer settings, you can save this modified profile for future use by clicking **Save** in the **Printers** section under **Preferences**.
 
 By following these steps, you'll have both your **Ender 3 V3 SE** printer profile set up and the material profiles imported, making your Cura setup customized to your needs.
-
-
-
-This way, you can add the **Ender 3 V3 SE** printer to Cura and modify the G-code without needing to go back later.
