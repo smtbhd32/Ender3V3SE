@@ -31,4 +31,4 @@ G90 ;absolute positioning
 
 ---
 
-If either of these scenarios arises and the proper settings were not initially configured, you can modify the recovery G-code file based on the settings provided above.
+If either of these scenarios arises and the proper settings were not initially configured, you can modify the recovery G-code file based on the settings provided above. Alternatively, if you prefer, you can intentionally turn off the printer to create Scenario 1 (no headache). This will trigger the 10 mm head raise and reset the configuration without any further adjustments.
