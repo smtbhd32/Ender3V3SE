@@ -14,7 +14,10 @@
 
 ### **Final Setup Recommendation**
 - To avoid the need for frequent reconfiguration, it is **recommended to create Scenario 1** by intentionally turning off the printer. This will ensure that the head always raises by 10 mm when a new print starts, providing a reliable and consistent recovery behavior.
-- **Configuration**: Set the **Z Homing** value in the power loss plugin configuration to **10 mm**. This ensures that the printer moves the head up by 10 mm upon restart when a new print is initiated.
+
+  ![image](https://github.com/user-attachments/assets/fab8bab8-1466-424e-9d6e-f849dc248d28)
+
+- **Configuration**: Set the **Z Homing** value in the power loss plugin configuration to **10 mm**. This ensures that the printer moves the head down by 10 mm to compensate z_homing when a new print is initiated.
 ```gcode
 G92 Z{adjustedZ}  ; set Z with any homing offsets 
 ;M211 S0 ; Deactivate software endstops
@@ -24,7 +27,6 @@ G90 ;absolute positioning
 ;M211 S1 ; Activate software endstops
 ```
 - **Note:** The cursor `" | "` should be placed on the next line.
-  ![image](https://github.com/user-attachments/assets/fab8bab8-1466-424e-9d6e-f849dc248d28)
 
 
 ### **Caution**:
