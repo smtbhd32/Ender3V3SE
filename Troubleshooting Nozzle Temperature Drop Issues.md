@@ -1,5 +1,4 @@
-# **Title:**  
-Troubleshooting Nozzle Temperature Drop Issues on Your 3D Printer
+# **Troubleshooting Nozzle Temperature Drop Issues on Your 3D Printer**
  
 Experiencing nozzle temperature drops, mid-print pauses, error messages, or continuous beeping on your 3D printer? This guide helps you troubleshoot these issues by retuning PID values, inspecting the thermistor, and adjusting temperature settings for safe and reliable operation. **Caution**: Please review the temperature limit warning below to avoid damaging your printer.
 
