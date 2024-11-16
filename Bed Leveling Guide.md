@@ -8,10 +8,12 @@ Struggling with bed leveling on your Ender 3 V3 SE? This guide walks you through
 
 ### Step 2: Use the Auto-Leveling Feature
    - If adjusting the Z offset doesn’t solve the problem, try using the printer’s auto-leveling calibration function. Once the auto-leveling is complete, the bed matrix displayed on the interface should ideally appear all green (or a uniform color), indicating even bed calibration.
+     ![WhatsApp Image 2024-11-17 at 2 28 11 AM](https://github.com/user-attachments/assets/1adb41cc-eafa-472c-b6eb-53e001f40531)
    - After this, adjust the Z offset once more to fine-tune the leveling and get the nozzle at the perfect height for printing. This should generally ensure a level bed.
 
 ### Step 3: Check the Matrix for Variations
    - If the matrix shows colors other than green (such as blue, red, or yellow), this indicates that certain sections of the bed are still uneven. In this case, you may need to manually level the bed.
+     ![WhatsApp Image 2024-11-17 at 2 17 57 AM](https://github.com/user-attachments/assets/bf88a351-603c-4b11-8eb3-30d143d86de6)
    - Follow this video tutorial for a detailed guide on manual leveling: [Manual Bed Leveling Guide for Ender 3 V3 SE](https://www.youtube.com/watch?v=iaExzAYR_Fo).
 
 ### Step 4: Seek Community Assistance
