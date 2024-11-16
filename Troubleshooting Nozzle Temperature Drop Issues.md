@@ -12,7 +12,7 @@ Experiencing nozzle temperature drops, mid-print pauses, error messages, or cont
 
 ### Step 2: Inspect the Thermistor
    - If retuning the PID doesn’t fix the issue, a faulty or loose thermistor could be the cause. Check the thermistor’s placement to ensure it’s secure, and verify that the wiring connections are tight.
-   - If the thermistor is loose or appears damaged, consider replacing it. Compatible thermistors, like those available on [Robu](https://forum.creality.com/t/nozzle-temperature-is-too-low-error/4575), can be purchased for under 100 INR. Forums often provide guidance on checking and replacing thermistors as well.
+   - If the thermistor is loose or appears damaged, consider replacing it. Compatible thermistors, like those available on Robu, can be purchased for under 100 INR. Forums often provide guidance on checking and replacing thermistors as well.
 
 ### Step 3: Seek Community Support
    - If the problem persists, try searching or posting your issue on 3D printing forums or support communities. The Creality forum, Reddit, and other communities are valuable resources where similar problems are often addressed.
