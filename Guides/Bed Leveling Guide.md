@@ -1,4 +1,4 @@
-# *Bed Leveling Guide for the Ender 3 V3 SE**
+# **Bed Leveling Guide for the Ender 3 V3 SE**
 
 Struggling with bed leveling on your Ender 3 V3 SE? This guide walks you through the process of fine-tuning your Z offset, using the auto-leveling feature for a smooth bed surface, and troubleshooting any uneven spots with manual leveling. For additional support, we’ve included links to helpful videos and community forums. Follow these steps to achieve a perfectly leveled bed for high-quality prints every time!
 
