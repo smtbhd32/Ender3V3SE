@@ -68,10 +68,10 @@ Both materials have performed excellently with this setup, ensuring high-quality
 
 #### **Ender 3 V3 SE Left Side Raspberry Pi Zero 2W & RPi v1.3 Camera Gimbal Mount**
 
-For users looking to enhance their Ender 3 V3 SE with a Raspberry Pi Zero 2W and an RPi v1.3 Camera, you can mount these components on the left side of the printer. This upgrade adds remote monitoring and advanced features like camera integration, which can be used with OctoPrint for live video streaming and enhanced control.
+For users looking to enhance their Ender 3 V3 SE with a Raspberry Pi Zero 2W and an RPi v1.3 Camera, you can mount these components on the left gantry of the printer. This upgrade adds remote monitoring and advanced features like camera integration, which can be used with OctoPrint for live video streaming and enhanced control.
 
  **Parts to Print**:
-1. **Raspberry Pi Zero 2W Mount**
+1. **Ender 3 V3 SE Left Gantry Mount**
 2. **Raspberry Pi Case**
 3. **Camera Gimbal Parts** (for RPi v1.3 Camera)
 
