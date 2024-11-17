@@ -6,7 +6,7 @@ This repository serves as a comprehensive guide for the Ender 3 V3 SE community,
 ### Repository Structure
 1. **Guide**: Contains setup instructions, including configuring Cura profiles for the Ender 3 V3 SE.
 2. **Troubleshooting**: Includes solutions to common problems, such as bed leveling, temperature drop issues, and OctoPlus connectivity.
-3. **Printer Specifications and Setup Guide**: This file is exclusively for the students of YMCA Faridabad. It provides detailed information about the printer firmware, setup instructions, and proper configurations for optimal performance.
+3. **Printer Specifications and Setup Guide**: This file is *exclusively for the students of YMCA Faridabad*. It provides detailed information about the printer firmware, setup instructions, and proper configurations for optimal performance.
 
 ### Troubleshooting Tips
 For problems not covered in this repository, we encourage users to leverage the wealth of knowledge available across the 3D printing community. Online resources, forums, and other open-source communities provide additional help, as many users have encountered similar challenges with the Ender 3 V3 SE. Sites like Reddit and specialized 3D printing forums are often excellent resources.
