@@ -1,4 +1,4 @@
-# **3D Printer Setup and Troubleshooting Guide for Ender 3 V3 SE Community**
+# **3D Printer Setup and Troubleshooting Guide for Ender 3 V3 SE**
 
 
 This repository serves as a comprehensive guide for the Ender 3 V3 SE community, providing essential information to help users set up, maintain, and troubleshoot their 3D printer. It includes guidance on configuring Cura profiles, resolving common issues like bed leveling, and troubleshooting OctoPlus connectivity. For those new to the Ender 3 V3 SE, this repository offers a valuable reference to make setup and ongoing maintenance straightforward and effective. For students of [YMCA Faridabd], please refer to the [Printer Specifications and Setup Guide](./Printer%20Specifications%20and%20Setup%20Guide%20for%20Ender%203%20V3%20SE.md) for detailed instructions on setting up and troubleshooting the Ender 3 V3 SE printer in the lab.
