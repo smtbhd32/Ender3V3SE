@@ -1,4 +1,13 @@
 # **Power Loss Plugin Configuration for Ender 3 V3 SE (OctoPrint Setup)**
+This guide provides step-by-step instructions for configuring the **Power Loss Recovery Plugin** on your Ender 3 V3 SE through OctoPrint. It covers various scenarios where power may be lost to either the printer or OctoPrint, and outlines how to ensure reliable recovery and print continuity after power interruptions.
+
+### **Key Topics Covered:**
+1. **Power Loss Scenarios**: Learn how to handle different power loss situations, including when power is lost to the printer, OctoPrint, or both.
+2. **Plugin Configuration**: Detailed setup for the Power Loss Plugin, ensuring the print head moves appropriately (e.g., raising 10mm) when a print is resumed after power loss.
+3. **Recovery G-code**: How to implement and use recovery G-code to prevent print failures.
+4. **Final Setup Recommendations**: Best practices for ensuring that your printer always recovers smoothly, without the need for frequent reconfiguration.
+
+This guide will help you minimize material wastage, prevent failed prints, and save time when dealing with power interruptions during your 3D printing projects.
 
 ### **Scenario 1: Actual Power Loss Occurs**
 - **Behavior**: If a power loss occurs, the printer will automatically raise the print head by 10 mm when a new print is started through OctoPrint. This ensures the print head does not interfere with the print bed after the power is restored.
