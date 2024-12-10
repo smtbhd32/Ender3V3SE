@@ -38,8 +38,8 @@ A **power loss recovery plugin** has already been set up and is fully configured
 #### **Wi-Fi Connectivity & Access**:  
 For accessing and controlling the printer remotely, you will need to connect to the Wi-Fi network with the following credentials:
 
-- **Wi-Fi Username**: `admin`
-- **Wi-Fi Password**: `admin1234`
+- **Wi-Fi Username**: `Admin`
+- **Wi-Fi Password**: `12345678`
 
 To view the device connected to your Wi-Fi, look for an IP address assigned to a device named **simplypi**. Once you have the IP, simply type it into your browser to access the OctoPrint interface. The login credentials for OctoPrint are as follows:
 
