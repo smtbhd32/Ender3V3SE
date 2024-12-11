@@ -1,4 +1,4 @@
-### Printer Specifications and Setup Guide for Ender 3 V3 SE
+![image](https://github.com/user-attachments/assets/db774ab6-fd94-4758-a70e-4cdcc55cdddb)### Printer Specifications and Setup Guide for Ender 3 V3 SE
 
 ---
 
@@ -36,15 +36,20 @@ A **power loss recovery plugin** has already been set up and is fully configured
 ---
 
 #### **Wi-Fi Connectivity & Access**:  
-For accessing and controlling the printer remotely, you will need to connect to the Wi-Fi network with the following credentials:
+For accessing and controlling the printer remotely, you will need to connect to the Printer Wi-Fi network with the following credentials:
 
-- **Wi-Fi Username**: `Admin`
+- **Wi-Fi Username**: `Octopi-Hotspot`
 - **Wi-Fi Password**: `12345678`
+
+Then install the Octopi or run on the browser with ip address: 192.168.4.1
+API key: eZFjTjeblQxQW672VEUgigFjzFL2p-oJ8sddEM-tQ4I
+![Screenshot 2024-12-11 155803](https://github.com/user-attachments/assets/b1365a96-d918-4881-b255-fad06050d827)
+
 
 To view the device connected to your Wi-Fi, look for an IP address assigned to a device named **simplypi**. Once you have the IP, simply type it into your browser to access the OctoPrint interface. The login credentials for OctoPrint are as follows:
 
 - **Username**: `opmishra`
-- **Password**: `Ender3V3SE`
+- **Password**: `12345678`
 
 Once logged in, you will have full control over the printer, including the ability to start/stop prints, adjust settings, and monitor print progress. For **remote control** outside the local Wi-Fi network, use **OctoEverywhere**, which provides full access to the printer from anywhere with an internet connection.
 
