@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/db774ab6-fd94-4758-a70e-4cdcc55cdddb)### Printer Specifications and Setup Guide for Ender 3 V3 SE
+### Printer Specifications and Setup Guide for Ender 3 V3 SE
 
 ---
 
