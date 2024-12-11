@@ -42,7 +42,9 @@ For accessing and controlling the printer remotely, you will need to connect to 
 - **Wi-Fi Password**: `12345678`
 
 Then install the Octopi or run on the browser with ip address: 192.168.4.1
+
 API key: eZFjTjeblQxQW672VEUgigFjzFL2p-oJ8sddEM-tQ4I
+
 ![Screenshot 2024-12-11 155803](https://github.com/user-attachments/assets/b1365a96-d918-4881-b255-fad06050d827)
 
 
